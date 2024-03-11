@@ -1,2 +1,3 @@
 ﻿#print('Hello my frend')
-print('The and')
+#print('The and')
+print('My world')
