@@ -1,1 +1,1 @@
-print('Hello my frend')
+# kol
